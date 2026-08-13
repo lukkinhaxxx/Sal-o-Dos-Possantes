@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Salão Dos Possantes</title>
+</head>
+<header>
+    <h1 style="color: #fffcfc; text-align: center; height: 50px; background-color: #0d063a;display: flex; align-items: center; justify-content: center;">
+        Salão Dos Possantes
+    </h1>
+    <div class="redessociaiselogin">
+<a href="instagram.com" target="_blank">
+<img src="https://img.icons8.com/ios11/512/FFFFFF/instagram-new.png" width="20" height="20">
+</a>
+<a href="X.com" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/960px-X_icon.svg.png" width="20" height="20">
+</a>
+<a href="instagram.com" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="20" height="20">
+</a>
+<a href="instagram.com" target="_blank">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/016/716/450/small/tiktok-icon-free-png.png" width="20" height="20">
+</a>
+</div>
+</header>
+
+<nav class="menu">
+<a href="index.html" style="color: ;">INICIO</a>
+<a href="ESTOQUE.html" >ESTOQUE</a>
+<a href="" >PROMOÇÕES</a>
+<a href=""style="color:#b4acdd ; " >SOBRE</a>
+<a href="" >CONTATO</a>
+</nav>
+
+<a href="login.html" target="_blank" style="text-decoration: underline; color: #ffffff;" color >
+<p style="color: rgb(255, 255, 255); text-align: center;">ENTRAR</p>
+</a>
+<hr>
+<body>
+    <h1><b>Nossa História</b></h1>s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
