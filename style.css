@@ -1,0 +1,134 @@
+body {
+ background-image: linear-gradient(to right, #0c071f, #040308);
+}
+.redessociaiselogin {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #b4acdd;
+  padding: 6px;
+}
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background-color: #0d063a;
+  padding: 10px;
+}
+
+
+.menu a{
+  flex: 1;
+  color: #ffffff;
+  text-decoration: none;
+  margin: 5px;
+  font-size: 12px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.menu a:hover {
+  background-color: #00000e;
+  color: #b4acdd;
+}
+
+h2 {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 20px;
+}
+.marcas-estoque{
+    position: relative;
+  background-color: #b4acdd; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+  padding: 35px;
+  margin: 60px auto;
+  max-width: 1200px;
+  border-radius: 16px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.marcas{
+    position: relative;
+  background-color: #b4acdd; 
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  gap: 60px;
+  padding: 35px;
+  margin: 60px auto;
+  max-width: 1200px;
+  border-radius: 16px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.seta-carrossel {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.849);
+    color: #d5d2e2;
+    border: none;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 10;
+    transition: 0.2s;
+}
+
+.seta-carrossel:hover {
+    background-color: rgb(25, 12, 97);
+    scale: 1.1;
+}
+
+.esquerda { left: 15px; }
+.direita { right: 15px; }
+
+.card img {
+    transition: 0.3s;
+}
+.card:hover img{
+    transform: scale(1.1);
+}
+
+.rodape {
+  padding: 20px;
+flex-wrap: wrap;
+text-align: center;
+background-color: #000000;
+}
+
+.logos {
+  background-color: #b4acdd;
+  border: 2px solid #f8f8f8;
+  
+}
+
+.modelos{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+a h2:last-child {
+      transition:  0.3s ease, color 0.3s ease;
+  }
+
+a h2:last-child:hover {
+      background-color: #32255f !important; 
+      color: #fff !important; 
+  }
+
+
