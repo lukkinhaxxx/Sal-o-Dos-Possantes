@@ -224,3 +224,17 @@ transition: border-color 0.3s ease;
   background-color: #00000e;
   transform: scale(0.98);
 }
+
+.promocao {
+  background-color: #0d063a;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+  padding: 35px;
+  margin: 60px auto;
+  border-radius: 16px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+ 
+}
